@@ -16,10 +16,8 @@ Kenya's criminal justice system is undeniably flawed. Kenyans regard it as corru
 * Matplotlib
 * Seaborn 
 * re, string **for text pre-processing**
-## Objectives of the project
-* To determine the most common type of crime in Kenya.
-* To determine trends of crime rate in Kenya.
-* How does the crime rate differ geographically in Kenya?
+## Objective of the project
+Our main goal is to create a generalized model that can predict different types of crimes.
 
 
 Copyright (c) {2021} **Asha deen,Greg Katono,Mildred Kulei,Quincy,Panchol**
